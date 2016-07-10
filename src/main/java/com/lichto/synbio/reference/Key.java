@@ -5,5 +5,5 @@ package com.lichto.synbio.reference;
  */
 public enum Key
 {
-    UNKNOWN, CHARGE, RELEASE;
+    UNKNOWN, CHARGE, ITEMINFO;
 }

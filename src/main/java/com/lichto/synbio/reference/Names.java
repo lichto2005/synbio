@@ -25,7 +25,7 @@ public final class Names
     {
         public static final String CATEGORY = "keys.synbio.category";
         public static final String CHARGE = "keys.synbio.charge";
-        public static final String RELEASE = "keys.synbio.release";
+        public static final String ITEMINFO = "keys.synbio.itemInfo";
     }
 
 }

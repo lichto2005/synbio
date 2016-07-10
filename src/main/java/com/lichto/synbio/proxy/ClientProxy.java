@@ -12,6 +12,6 @@ public class ClientProxy extends CommonProxy
     public void registerKeyBindings()
     {
         ClientRegistry.registerKeyBinding(KeyBindings.charge);
-        ClientRegistry.registerKeyBinding(KeyBindings.release);
+        ClientRegistry.registerKeyBinding(KeyBindings.itemInfo);
     }
 }

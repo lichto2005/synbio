@@ -17,6 +17,19 @@ public class NBTHelper
         //TODO: do i need this method?
     }
 
+    public static final String[] NBTKeys = {
+            "teststring"
+    };
+
+    public static String getKeyValue(ItemStack itemStack, String keyName)
+    {
+        if(hasKey(itemStack, keyName))
+        {
+            return itemStack.getTagCompound().getTag(keyName).toString();
+        }
+        else return "undef";
+    }
+
     public static boolean hasKey(ItemStack itemStack, String keyName)
     {
         // returns true if itemstack has the given keyname (not its value)
@@ -238,7 +251,7 @@ public class NBTHelper
         return null;
     }
 
-    public static void setString(ItemStack itemStack, String keyName, double keyValue)
+    public static void setDouble(ItemStack itemStack, String keyName, double keyValue)
     {
         if(itemStack != null && keyName != null && !keyName.isEmpty())
         {

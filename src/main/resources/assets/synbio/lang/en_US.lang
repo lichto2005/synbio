@@ -1,7 +1,7 @@
 #Keys
 keys.synbio.category=Synbio
 keys.synbio.charge=Charge
-keys.synbio.release=Release
+keys.synbio.itemInfo=Item Info
 
 #Items
 item.synbio:leaf.name=Leaf

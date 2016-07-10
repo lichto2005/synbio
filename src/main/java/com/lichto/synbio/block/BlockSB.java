@@ -21,7 +21,7 @@ public class BlockSB extends Block
 
     public BlockSB()
     {
-        super(Material.iron);
+        super(Material.grass);
         this.setCreativeTab(CreativeTab.MT_TAB);
     }
 
