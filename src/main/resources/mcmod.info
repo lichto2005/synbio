@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Synbio",
+  "name": "Synbio for Minecraft",
+  "description": "Synthetic Biology mod",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "lichto"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

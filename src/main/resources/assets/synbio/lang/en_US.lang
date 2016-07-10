@@ -1,0 +1,10 @@
+#Keys
+keys.synbio.category=Synbio
+keys.synbio.charge=Charge
+keys.synbio.release=Release
+
+#Items
+item.synbio:leaf.name=Leaf
+
+#Blocks
+tile.synbio:flag.name=Flag
