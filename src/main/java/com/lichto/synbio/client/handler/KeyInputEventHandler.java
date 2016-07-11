@@ -1,7 +1,9 @@
 package com.lichto.synbio.client.handler;
 
+import com.lichto.synbio.Synbio;
 import com.lichto.synbio.client.settings.KeyBindings;
 import com.lichto.synbio.item.ItemSB;
+import com.lichto.synbio.network.TestMessage;
 import com.lichto.synbio.reference.Key;
 import com.lichto.synbio.utility.LogHelper;
 import com.lichto.synbio.utility.NBTHelper;

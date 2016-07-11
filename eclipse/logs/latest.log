@@ -1,36 +1,27 @@
-[15:24:52] [main/INFO]: Setting user: Player419
-[15:24:53] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:24:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Synbio for Minecraft
-[15:24:59] [Sound Library Loader/INFO]: Sound engine started
-[15:25:00] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[15:25:00] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[15:25:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Synbio for Minecraft
-[15:25:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:25:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:25:01] [Sound Library Loader/INFO]: Sound engine started
-[15:25:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:25:02] [Server thread/INFO]: Generating keypair
-[15:25:02] [Server thread/INFO]: Preparing start region for level 0
-[15:25:03] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:25:03] [Server thread/INFO]: Player419[local:E:7f0b6f2f] logged in with entity id 202 at (-766.176939310162, 4.0, 273.34378583232575)
-[15:25:03] [Server thread/INFO]: Player419 joined the game
-[15:25:03] [Server thread/INFO]: Saving and pausing game...
-[15:25:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:25:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:25:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:25:05] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:08] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:08] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:10] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:10] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:11] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:12] [Client thread/INFO]: [CHAT] Item Damage: 0
-[15:25:12] [Server thread/INFO]: Player419 has just earned the achievement [Taking Inventory]
-[15:25:12] [Client thread/INFO]: [CHAT] Player419 has just earned the achievement [Taking Inventory]
-[15:25:14] [Client thread/INFO]: Stopping!
-[15:25:14] [Server thread/INFO]: Stopping server
-[15:25:14] [Server thread/INFO]: Saving players
-[15:25:14] [Server thread/INFO]: Saving worlds
-[15:25:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:25:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:25:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:06:28] [main/INFO]: Setting user: Player516
+[23:06:29] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:06:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Synbio for Minecraft
+[23:06:36] [Sound Library Loader/INFO]: Sound engine started
+[23:06:36] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[23:06:36] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[23:06:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Synbio for Minecraft
+[23:06:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:06:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:06:37] [Sound Library Loader/INFO]: Sound engine started
+[23:06:39] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:06:39] [Server thread/INFO]: Generating keypair
+[23:06:39] [Server thread/INFO]: Preparing start region for level 0
+[23:06:40] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:06:40] [Server thread/INFO]: Player516[local:E:57d14bc1] logged in with entity id 202 at (-766.658887722938, 4.0, 275.91214445941444)
+[23:06:40] [Server thread/INFO]: Player516 joined the game
+[23:06:43] [Client thread/INFO]: [CHAT] Item Damage: 0
+[23:06:43] [Client thread/INFO]: [CHAT] Received packed with val: 10
+[23:06:51] [Server thread/INFO]: Player516 has just earned the achievement [Taking Inventory]
+[23:06:51] [Client thread/INFO]: [CHAT] Player516 has just earned the achievement [Taking Inventory]
+[23:06:51] [Client thread/INFO]: Stopping!
+[23:06:51] [Server thread/INFO]: Stopping server
+[23:06:51] [Server thread/INFO]: Saving players
+[23:06:51] [Server thread/INFO]: Saving worlds
+[23:06:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:06:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:06:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
