@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
  */
 public class CreativeTab
 {
-    public static final CreativeTabs MT_TAB = new CreativeTabs(Reference.MOD_ID_LOWERCASE)
+    public static final CreativeTabs SB_TAB = new CreativeTabs(Reference.MOD_ID_LOWERCASE)
     {
         @Override
         public Item getTabIconItem()

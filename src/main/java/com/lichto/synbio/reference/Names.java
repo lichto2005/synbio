@@ -8,6 +8,12 @@ public final class Names
     public static final class Blocks
     {
         public static final String FLAG = "flag";
+        public static final String FRIDGE = "fridge";
+    }
+
+    public static final class TileEntities
+    {
+        public static final String FRIDGE = "tileentityblockgui";
     }
 
     public static final class Items

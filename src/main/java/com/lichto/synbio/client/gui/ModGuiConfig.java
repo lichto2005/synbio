@@ -8,14 +8,14 @@ import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
 
 /**
- * Init the configuration GUI
+ * Init the configuration FRIDGE
  *
  * Created by Noah Lichtenstein on 6/19/2016.
  */
 public class ModGuiConfig extends GuiConfig
 {
     /**
-     * Constructor used to start the config GUI screen
+     * Constructor used to start the config FRIDGE screen
      * @param guiScreen GuiScreen to display info to
      */
     public ModGuiConfig(GuiScreen guiScreen)

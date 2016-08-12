@@ -5,21 +5,30 @@ import com.lichto.synbio.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
+import net.minecraft.block.BlockContainer;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
+import net.minecraft.tileentity.TileEntity;
+import net.minecraft.world.World;
 
 /**
  * Created by Noah Lichtenstein on 6/20/2016.
  */
-public class BlockSB extends Block
+public class BlockContainerSB extends BlockContainer
 {
-    public BlockSB(Material material)
+    public BlockContainerSB(Material material)
     {
         super(material);
         this.setCreativeTab(CreativeTab.SB_TAB);
     }
 
-    public BlockSB()
+    @Override
+    public TileEntity createNewTileEntity(World world, int i)
+    {
+        return null;
+    }
+
+    public BlockContainerSB()
     {
         super(Material.grass);
         this.setCreativeTab(CreativeTab.SB_TAB);

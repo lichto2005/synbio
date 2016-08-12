@@ -1,5 +1,6 @@
 package com.lichto.synbio;
 
+import com.lichto.synbio.client.gui.GuiHandler;
 import com.lichto.synbio.client.handler.KeyInputEventHandler;
 import com.lichto.synbio.handler.ConfigurationHandler;
 import com.lichto.synbio.init.ModBlocks;
@@ -53,6 +54,7 @@ public class Synbio
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
+        new GuiHandler();
         FMLCommonHandler.instance().bus().register(new KeyInputEventHandler());
         Recipes.init();
     }

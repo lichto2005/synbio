@@ -2,7 +2,6 @@ package com.lichto.synbio.item;
 
 import com.lichto.synbio.creativetab.CreativeTab;
 import com.lichto.synbio.reference.Reference;
-import com.lichto.synbio.utility.LogHelper;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;
@@ -20,7 +19,7 @@ public class ItemSB extends Item
     {
         super();
         this.maxStackSize = 64;
-        this.setCreativeTab(CreativeTab.MT_TAB);
+        this.setCreativeTab(CreativeTab.SB_TAB);
     }
 
     @Override
